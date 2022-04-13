@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./Images/Screenshot.png)
+[Screenshot](./Images/Screenshot.png)
 
 ### Links
 
@@ -43,7 +43,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [devChallenges](https://devchallenges.io/learn) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [devChallenges](https://devchallenges.io/learn)
 
 ## Author
 
